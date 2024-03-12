@@ -19,7 +19,7 @@ let neededGuesses = 0; //Number of needed guesses to win the game
 const maxTime = 90; // Maximum time for the game
 const endTimeout = 10000; // Time before the end screen appears
 let timer = maxTime; // Current time
-let timerLow = new Audio("../sounds/TimeLow.mp3"); // Sound played when time is low
+let timerLow = new Audio("./sounds/TimeLow.mp3"); // Sound played when time is low
 
 //Card Variables
 let cardsArray = []; // Array to store the cards
@@ -228,7 +228,7 @@ function clearScoreBoard() {
 
 // Async function to get data from an API
 async function getData() {
-let apiUrl = "../api/data.json"; // The API URL
+let apiUrl = "./api/data.json"; // The API URL
     try {
         let response = await fetch(apiUrl); // Fetch the data from the API
         let result = await response.json(); // Parse ethe data as JSON
@@ -281,27 +281,27 @@ function createDeck() {
 
 // Sounds effects
 function playFlipSound() {
-    let sound = new Audio("../sounds/Flip.mp3"); // The flip sound
+    let sound = new Audio("./sounds/Flip.mp3"); // The flip sound
     sound.play(); // Play the flip sound
 }
 
 function playUnFlipSound() {
-    let sound = new Audio("../sounds/Unflip.mp3"); // The unflip sound
+    let sound = new Audio("./sounds/Unflip.mp3"); // The unflip sound
     sound.play(); // Play the unflip sound
 }
 
 function playWinSound() { 
     timerLow.pause(); // Pause the low timer sound
-    let sound = new Audio("../sounds/finalfantasyvictory.mp3"); // The win sound
+    let sound = new Audio("./sounds/finalfantasyvictory.mp3"); // The win sound
     sound.play(); // Play the win sound
 }
 
 function playLoseSound() {
-    let sound = new Audio("../sounds/demongameover.mp3"); // The lose sound
+    let sound = new Audio("./sounds/demongameover.mp3"); // The lose sound
     sound.play(); // Play the lose sound
 }
 
 function playSuccessSound() {
-    let sound = new Audio("../sounds/Success.mp3"); // The success sound
+    let sound = new Audio("./sounds/Success.mp3"); // The success sound
     sound.play(); // Play the success sound
 }
