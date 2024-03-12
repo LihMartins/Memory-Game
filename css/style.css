@@ -219,28 +219,22 @@ input {
     }
 }
 
-/* Used for mobile screens */
-@media (max-width: 600px) {
-    /* Add your mobile styles here */
-    /* Example: Adjust the font size of the end screen for mobile */
-    .end-screen {
-        font-size: 3rem;
-        left: 10%;
-        top: 30%;
+/* Mobile Screens */
+@media screen and (max-width: 600px) {
+    .start-container,
+    .game-container {
+        width: 90vw;
+        height: 90vh;
     }
 
-    /* Example: Adjust the visibility and position of the end screen when shown */
-    .end-screen-shown {
-        left: 50%;
+    .site-container,
+    .game-container {
+        display: block;
     }
 
-    /* Example: Adjust the padding of the site container in fullscreen mode */
-    .site-container {
-        padding-top: 2rem;
-    }
-
-    /* Example: Adjust the position of the start screen in fullscreen mode */
-    .start-container {
-        top: 10%
+    body,
+    .paragraph,
+    .heading {
+        font-size: 14px;
     }
 }
