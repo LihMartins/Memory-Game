@@ -84,11 +84,7 @@ body {
 
 /* Used for the front of the game cards */
 .face {
-<<<<<<< HEAD:style.css
-    background-image: url("./api/data.json");
-=======
     background-image: url("../api/data.json");
->>>>>>> main:css/style.css
     background-size: cover;
     background-color: black;    
 }
