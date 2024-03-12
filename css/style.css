@@ -204,17 +204,3 @@ input {
     color: rgb(255, 255, 255);
     left: 65%;
 }
-
-/* Media Queries */
-/* Used or fullscreen display mode */
-@media all and (display-mode: fullscreen) {
-    /* Used for the main site layout in fullscreen mode */
-    .site-container {
-        padding-top: 5rem;
-    }
-
-    /* Used for the start screen layout in fullscreen mode */
-    .start-container {
-        top: 20%
-    }
-}
