@@ -218,16 +218,3 @@ input {
         top: 20%
     }
 }
-
-/* Used for mobile display mode */
-@media all and (max-width: 600px) {
-    /* Used for the main site layout in mobile mode */
-    .site-container {
-        padding-top: 3rem;
-    }
-
-    /* Used for the start screen layout in mobile mode */
-    .start-container {
-        top: 10%
-    }
-}
