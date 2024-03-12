@@ -220,21 +220,10 @@ input {
 }
 
 /* Mobile Screens */
-@media screen and (max-width: 600px) {
-    .start-container,
-    .game-container {
-        width: 90vw;
-        height: 90vh;
-    }
-
-    .site-container,
-    .game-container {
-        display: block;
-    }
-
-    body,
-    .paragraph,
-    .heading {
-        font-size: 14px;
+@media screen and (max-width: 480px) {
+    .content {
+        width: 100%;
+        padding: 0;
+        box-sizing: border-box;
     }
 }
