@@ -305,3 +305,11 @@ function playSuccessSound() {
     let sound = new Audio("./sounds/Success.mp3"); // The success sound
     sound.play(); // Play the success sound
 }
+
+// Checks if the width of the window is less than or equal to 525 pixels
+window.onload = function () {
+    if(window.innerWidth <= 525) {
+        var mvp = document.getElementById('myViewport');
+        mvp.setAttribute('content','width=525');
+    }
+}
