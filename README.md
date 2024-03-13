@@ -99,7 +99,9 @@ The following websites and resources were used to assist in the creation of the 
 - [Quora Discussion on JavaScript Start and Stop Button]( https://www.quora.com/What-is-the-code-to-create-a-start-and-stop-button-using-JavaScript-on-a-web-page)
 - [Bootstrap Get Started - W3Schools](https://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
 - [Finding Area Width - BU Tech](https://www.bu.edu/tech/services/cccs/websites/www/wordpress/how-to/find-area-width/)
-- [Adding a new project to GitHub using VS Code](https://stackoverflow.com/questions/46877667/how-to-add-a-new-project-to-github-using-vs-code)  
+- [Adding a new project to GitHub using VS Code](https://stackoverflow.com/questions/46877667/how-to-add-a-new-project-to-github-using-vs-code)
+- [CSS @mediaRule](https://www.w3schools.com/cssref/css3_pr_mediaquery.php#:~:text=The%20%40media%20rule%20is%20used,and%20height%20of%20the%20device)
+- [1-Line Layouts](https://1linelayouts.glitch.me/)
 
 ### Images
 
