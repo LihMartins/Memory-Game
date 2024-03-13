@@ -239,7 +239,7 @@ input {
         font-size: 3rem;
         width: 40%;
         height: 40%;
-        margin-top: 50%;
+        margin-top: 65%;
         margin-right: 40%;
     }
 
@@ -258,7 +258,32 @@ input {
     }
 
     .paragraph {
-        width: 50%;
-        font-size: 0.8,5em;
+        width: 40%;
+        font-size: 0.8em;
+    }   
+
+    .form h2{
+        height: 40px;
+        width: 80%;             
+        font-size: 1em;             
+    }
+
+    input {
+        height: 20px;           
+        border-radius: 8px;
+        font-family: 'Kavoon';
+        font-size: 0.6em;          
+        padding: 1rem;
+        
+    }
+    
+    /* Button Styles */
+    /* Used for the start button */
+    .start-button {
+        height: 20px;
+        width: 120px;            
+        border-radius: 5px;
+        font-family: 'Kavoon';
+        border: 2px black solid;
     }
 }
