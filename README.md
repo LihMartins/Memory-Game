@@ -116,7 +116,7 @@ The images used in the game were sourced from the following locations:
 The sounds used in the game were sourced from the following locations:
 
 - [Winning Sound](https://soundboardguy.com/sounds/final-fantasy-7-victory-theme-mp3/#google_vignette)
-- [Game Over](https://pixabay.com/sound-effects/search/game-over/) sound were sourced from external websites.
+- [Game Over](https://pixabay.com/sound-effects/search/game-over/)
 - [Flipping the cards, matching cards, running out of time, Success' sounds were imported from @vsafonova's GitHub](https://github.com/vsafonova/memory-card-game)
 
 ### Favicon
