@@ -17,16 +17,16 @@ Once the user inputs their name, if they win the game, it will be displayed on t
 
 ## Desktop Layout Images
 
-![Main Page Layout](../finalfantasy/validator-images/Main%20Page.PNG)
-![Running Out of Time Layout](../finalfantasy/validator-images/Runningtime.PNG)
-![Winners Layout](../finalfantasy/validator-images/winner.PNG)
-![Game Over Layout](../finalfantasy/validator-images/gameover.PNG)
+![Main Page Layout](./finalfantasy/validator-images/Main%20Page.PNG)
+![Running Out of Time Layout](./finalfantasy/validator-images/Runningtime.PNG)
+![Winners Layout](./finalfantasy/validator-images/winner.PNG)
+![Game Over Layout](./finalfantasy/validator-images/gameover.PNG)
 
 ## Mobile Layout Images
 
-![Main Page Layout](../finalfantasy/validator-images/mainpagemobileview.PNG)
-![Gameplay Layout](../finalfantasy/validator-images/gameplaymobileview.PNG)
-![End Screen Layout](../finalfantasy/validator-images/gameovermobileview.PNG)
+![Main Page Layout](./finalfantasy/validator-images/mainpagemobileview.PNG)
+![Gameplay Layout](./finalfantasy/validator-images/gameplaymobileview.PNG)
+![End Screen Layout](./finalfantasy/validator-images/gameovermobileview.PNG)
 
 ## Game Rules
 
@@ -75,7 +75,7 @@ Deploying Indieverse to GitHub was a challenging yet rewarding journey. As a fir
 
 ### Live Content
 
-The live version of Indieverse is accessible
+The live version of Final Fantasy Memory-Card Game is accessible [here](https://lihmartins.github.io/Memory-Game/)
 
 ## Credits
 
@@ -129,29 +129,29 @@ The favicon used was created and generated from the following location:
 
 ### HTML
 
-![HTML](../validator-images/htmlvalidator.PNG)
+![HTML](./validator-images/htmlvalidator.PNG)
 
 ### CSS
 
-![CSS](../validator-images/cssvalidator.PNG)
+![CSS](./validator-images/cssvalidator.PNG)
 
 ### JavaScript
 
-![JavaScript1](../validator-images/javascriptvalidator.PNG)
-![JavaScript2](../validator-images/javascriptvalidator2.PNG)
+![JavaScript1](./validator-images/javascriptvalidator.PNG)
+![JavaScript2](./validator-images/javascriptvalidator2.PNG)
 
 ## Lighthouse
 
 ### Desktop
 
-![Cards Page Snapshot](../finalfantasy/validator-images/cardspagelighthouse.PNG)
-![Main Page Snapshot](../finalfantasy/validator-images/mainpagesnapshotlighthouse.PNG)
-![Main Page Navigation](../finalfantasy/validator-images/memorygamelighthouse.PNG)
-![TimeSpan](../finalfantasy/validator-images/timespanlighthouse.PNG)
+![Cards Page Snapshot](./finalfantasy/validator-images/cardspagelighthouse.PNG)
+![Main Page Snapshot](./finalfantasy/validator-images/mainpagesnapshotlighthouse.PNG)
+![Main Page Navigation](./finalfantasy/validator-images/memorygamelighthouse.PNG)
+![TimeSpan](./finalfantasy/validator-images/timespanlighthouse.PNG)
 
 ### Mobile
 
-![Main Page Navigation](../finalfantasy/validator-images/memorygamemobile.PNG)
-![Main Page Snapshot](../finalfantasy/validator-images/snapshotmobile.PNG)
-![Cards Page Snapshot](../finalfantasy/validator-images/cardssnapshotmobile.PNG)
-![Timespan](../finalfantasy/validator-images/timespanmobile.PNG)
+![Main Page Navigation](./finalfantasy/validator-images/memorygamemobile.PNG)
+![Main Page Snapshot](./finalfantasy/validator-images/snapshotmobile.PNG)
+![Cards Page Snapshot](./finalfantasy/validator-images/cardssnapshotmobile.PNG)
+![Timespan](/finalfantasy/validator-images/timespanmobile.PNG)
