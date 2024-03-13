@@ -152,7 +152,7 @@ The favicon used was created and generated from the following location:
 
 ### Mobile
 
-![Main Page Navigation](./validator-images/memorygamemobile.PNG)
+![Main Page Navigation](./validator-images/mobilenavigation.PNG)
 ![Main Page Snapshot](./validator-images/snapshotmobile.PNG)
 ![Cards Page Snapshot](./validator-images/cardssnapshotmobile.PNG)
-![Timespan](./validator-images/timespanmobile.PNG)
+![Timespan](./validator-images/mobiletimespan.PNG)
