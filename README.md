@@ -28,7 +28,6 @@ I still struggle a lot to optimise the layout for different screen sizes.
 
 ![Main Page Layout](./validator-images/mainpagemobile.PNG)
 ![Gameplay Layout](./validator-images/gameplaymobile.PNG)
-![End Screen Layout](./validator-images/gameovermobileview.PNG)
 
 ## Game Rules
 
