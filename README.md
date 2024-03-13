@@ -15,21 +15,18 @@ The game starts with a container box that serves two purposes:
 
 Once the user inputs their name, if they win the game, it will be displayed on the ScoreBoard at the end.
 
-### Main Page Layout
+## Desktop Layout Images
 
 ![Main Page Layout](../finalfantasy/validator-images/Main%20Page.PNG)
-
-### Running Out of Time Layout
-
 ![Running Out of Time Layout](../finalfantasy/validator-images/Runningtime.PNG)
-
-### Winners Layout
-
 ![Winners Layout](../finalfantasy/validator-images/winner.PNG)
-
-### Loser Layout
-
 ![Game Over Layout](../finalfantasy/validator-images/gameover.PNG)
+
+## Mobile Layout Images
+
+![Main Page Layout](../finalfantasy/validator-images/mainpagemobileview.PNG)
+![Gameplay Layout](../finalfantasy/validator-images/gameplaymobileview.PNG)
+![End Screen Layout](../finalfantasy/validator-images/gameovermobileview.PNG)
 
 ## Game Rules
 

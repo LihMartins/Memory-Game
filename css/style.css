@@ -86,7 +86,7 @@ body {
 .face {
     background-image: url("../api/data.json");
     background-size: cover;
-    background-color: black;    
+    background-color: black;
 }
 
 /* Used for the back of the game cards */
@@ -203,4 +203,62 @@ input {
     visibility: visible;
     color: rgb(255, 255, 255);
     left: 65%;
+}
+
+/* Media Queries */
+
+/* Mobile Screens Optimasation */
+@media screen and (max-width: 600px) {
+
+    .site-container {
+        width: 80%;
+        height: 80%;        
+        margin: auto; /* Centers the container */
+    }
+
+    .site-container * {
+        font-size: 0.8em;
+    }
+
+    .game-container {
+        display: grid;
+        grid-template-columns: repeat(4, 6rem);
+        grid-template-rows: repeat(5, 5rem);
+        gap: 0.7rem;
+        perspective: 800px;
+        margin-top: 40%;
+    }
+
+    .face,
+    .back {
+        width: 100%;
+        height: 100%;
+    }
+
+    .end-screen {
+        font-size: 3rem;
+        width: 40%;
+        height: 40%;
+        margin-top: 50%;
+        margin-right: 40%;
+    }
+
+    .start-container {
+        width: 80%;
+        height: 80%;
+        margin: auto;
+        font-size: 0.9em;
+        background-image: url("../images/ggbackground.PNG");        
+        background-size: cover;
+        /* Scales the image as large as possible */
+        background-position: center;
+        /* Centers background image */
+        background-repeat: no-repeat;
+        /* Prevents image from repeating */
+    }
+
+    .paragraph {
+        width: 50%;
+        font-size: 0.8,5em;
+    }
 }
