@@ -57,13 +57,13 @@ No unfixed bugs (or any bug) were found in the game.
 
 ## Deployment
 
-Deploying Indieverse to GitHub was a challenging yet rewarding journey. As a first-time GitHub user, I encountered some hurdles, but the learning process was invaluable.
+Deploying Memory-Card game to GitHub was a challenging yet rewarding journey. I've encountered some hurdles, but the learning process was invaluable.
 
 ### Steps to Deploy
 
 1. **Linking Visual Studio Code to GitHub:**
    - To initiate the deployment process, I first linked my Visual Studio Code directory to GitHub.
-   - Created a repository on GitHub to host the Indieverse project.
+   - Created a repository on GitHub to host the Memory-Card Game project.
 
 2. **Adjusting Branch for Deployment:**
    - As part of the deployment setup, I had to adjust the branch settings.
