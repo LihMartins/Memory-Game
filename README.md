@@ -17,16 +17,16 @@ Once the user inputs their name, if they win the game, it will be displayed on t
 
 ## Desktop Layout Images
 
-![Main Page Layout](./finalfantasy/validator-images/Main%20Page.PNG)
-![Running Out of Time Layout](./finalfantasy/validator-images/Runningtime.PNG)
-![Winners Layout](./finalfantasy/validator-images/winner.PNG)
-![Game Over Layout](./finalfantasy/validator-images/gameover.PNG)
+![Main Page Layout](./validator-images/Main%20Page.PNG)
+![Running Out of Time Layout](./validator-images/Runningtime.PNG)
+![Winners Layout](./validator-images/winner.PNG)
+![Game Over Layout](./validator-images/gameover.PNG)
 
 ## Mobile Layout Images
 
-![Main Page Layout](./finalfantasy/validator-images/mainpagemobileview.PNG)
-![Gameplay Layout](./finalfantasy/validator-images/gameplaymobileview.PNG)
-![End Screen Layout](./finalfantasy/validator-images/gameovermobileview.PNG)
+![Main Page Layout](./validator-images/mainpagemobileview.PNG)
+![Gameplay Layout](./validator-images/gameplaymobileview.PNG)
+![End Screen Layout](./validator-images/gameovermobileview.PNG)
 
 ## Game Rules
 
@@ -144,14 +144,14 @@ The favicon used was created and generated from the following location:
 
 ### Desktop
 
-![Cards Page Snapshot](./finalfantasy/validator-images/cardspagelighthouse.PNG)
-![Main Page Snapshot](./finalfantasy/validator-images/mainpagesnapshotlighthouse.PNG)
-![Main Page Navigation](./finalfantasy/validator-images/memorygamelighthouse.PNG)
-![TimeSpan](./finalfantasy/validator-images/timespanlighthouse.PNG)
+![Cards Page Snapshot](./validator-images/cardspagelighthouse.PNG)
+![Main Page Snapshot](./validator-images/mainpagesnapshotlighthouse.PNG)
+![Main Page Navigation](./validator-images/memorygamelighthouse.PNG)
+![TimeSpan](./validator-images/timespanlighthouse.PNG)
 
 ### Mobile
 
-![Main Page Navigation](./finalfantasy/validator-images/memorygamemobile.PNG)
-![Main Page Snapshot](./finalfantasy/validator-images/snapshotmobile.PNG)
-![Cards Page Snapshot](./finalfantasy/validator-images/cardssnapshotmobile.PNG)
-![Timespan](/finalfantasy/validator-images/timespanmobile.PNG)
+![Main Page Navigation](./validator-images/memorygamemobile.PNG)
+![Main Page Snapshot](./validator-images/snapshotmobile.PNG)
+![Cards Page Snapshot](./validator-images/cardssnapshotmobile.PNG)
+![Timespan](./validator-images/timespanmobile.PNG)
