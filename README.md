@@ -15,17 +15,19 @@ The game starts with a container box that serves two purposes:
 
 Once the user inputs their name, if they win the game, it will be displayed on the ScoreBoard at the end.
 
-## Desktop Layout Images
+### Desktop Layout Images
 
 ![Main Page Layout](./validator-images/Main%20Page.PNG)
 ![Running Out of Time Layout](./validator-images/Runningtime.PNG)
 ![Winners Layout](./validator-images/winner.PNG)
 ![Game Over Layout](./validator-images/gameover.PNG)
 
-## Mobile Layout Images
+### Mobile Layout Images
 
-![Main Page Layout](./validator-images/mainpagemobileview.PNG)
-![Gameplay Layout](./validator-images/gameplaymobileview.PNG)
+I still struggle a lot to optimise the layout for different screen sizes.
+
+![Main Page Layout](./validator-images/mainpagemobile.PNG)
+![Gameplay Layout](./validator-images/gameplaymobile.PNG)
 ![End Screen Layout](./validator-images/gameovermobileview.PNG)
 
 ## Game Rules

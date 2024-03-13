@@ -21,7 +21,7 @@ body {
 }
 
 /* Layout */
-/*Style used forlaying out the site */
+/*Style used for laying out the site */
 .site-container {
     display: flex;
     justify-content: space-evenly;
@@ -236,11 +236,11 @@ input {
     }
 
     .end-screen {
-        font-size: 3rem;
+        font-size: 2rem;
         width: 40%;
         height: 40%;
         margin-top: 65%;
-        margin-right: 40%;
+        margin-right: 60%;
     }
 
     .start-container {
@@ -284,6 +284,6 @@ input {
         width: 120px;            
         border-radius: 5px;
         font-family: 'Kavoon';
-        border: 2px black solid;
+        border: 2px black solid; 
     }
 }
